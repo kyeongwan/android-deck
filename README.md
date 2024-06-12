@@ -18,11 +18,11 @@
 - [TextField 씹고 뜯고 맛보고 즐기고 - 이현우](https://speakerdeck.com/l2hyunwoo/textfield-ssibgo-ddeudgo-masbogo-jeulgigo)
 
 #### super.init(version=5)
-[CDG로 모두와 함께 성장하기 - 이현우](https://speakerdeck.com/l2hyunwoo/cdgro-moduwa-hamgge-seongjanghagi)
-[백그라운드 반복 작업 예약, 당신의 선택은? AlarmManager vs WorkManager - 임선미](https://speakerdeck.com/nnal0256/super-init-baeggeuraundeu-banbog-jageob-yeyag-dangsinyi-seontaegeun)
-[어어.. 그렇게 쓰는 거 아닌데.. 주니어 개발자의 Custom Lint 개발일지 - 이지훈](https://speakerdeck.com/leejihoon/eoeo-dot-geureohge-sseuneun-geo-aninde-dot-junieo-gaebaljayi-custom-lint-gaebalilji-super-init5)
-[Compose Multiplatform, 우리 시작해도 괜찮을까요? - 김원석](https://speakerdeck.com/onseok/compose-multiplatform-uri-sijaghaedo-gwaencanheulggayo)
-[사이드_프로젝트였는데_2023_올해의_앱에_선정되었다고? - 박병윤](https://speakerdeck.com/bombakbang/saideu-peurojegteuyeossneunde-2023-olhaeyi-aebe-seonjeongdoeeossdago)
+- [CDG로 모두와 함께 성장하기 - 이현우](https://speakerdeck.com/l2hyunwoo/cdgro-moduwa-hamgge-seongjanghagi)
+- [백그라운드 반복 작업 예약, 당신의 선택은? AlarmManager vs WorkManager - 임선미](https://speakerdeck.com/nnal0256/super-init-baeggeuraundeu-banbog-jageob-yeyag-dangsinyi-seontaegeun)
+- [어어.. 그렇게 쓰는 거 아닌데.. 주니어 개발자의 Custom Lint 개발일지 - 이지훈](https://speakerdeck.com/leejihoon/eoeo-dot-geureohge-sseuneun-geo-aninde-dot-junieo-gaebaljayi-custom-lint-gaebalilji-super-init5)
+- [Compose Multiplatform, 우리 시작해도 괜찮을까요? - 김원석](https://speakerdeck.com/onseok/compose-multiplatform-uri-sijaghaedo-gwaencanheulggayo)
+- [사이드_프로젝트였는데_2023_올해의_앱에_선정되었다고? - 박병윤](https://speakerdeck.com/bombakbang/saideu-peurojegteuyeossneunde-2023-olhaeyi-aebe-seonjeongdoeeossdago)
 
 
 ## 2023
