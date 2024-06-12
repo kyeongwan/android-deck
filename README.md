@@ -9,20 +9,21 @@
 
 ## 2024
 #### DroidNight 2024
-- [Compose 성능 최적화를 위한 Stability 마스터하기 - 엄재웅](https://speakerdeck.com/skydoves/kr-2024-droidknights-mastering-stability-to-optimize-compose-performance)
-- [앱 성능 영혼까지 끌어올리기 - 배필주](https://speakerdeck.com/veronikapj/aeb-seongneung-yeonghonggaji-ggeuleoolrigi)
-- [Accessibility in Android - 신현성](https://speakerdeck.com/nanamare/droid-knights-2024-accessibility-in-android-ed460750-9a06-4e7e-b156-5decf7596817)
-- [시니어와 주니어의 협업 다리 온라인 및 오프라인 Pair Coding의 통찰 - 정동진, 최재웅](https://bit.ly/3yX3Rbv)
-- [여러분의 앱 빌드는 안녕하십니까 - 차영호](https://docs.google.com/presentation/d/1_aIuyBlTZyYQPxUH3PiZg91Rs-ImbDXjiir9j0R5e2Q/mobilepresent?slide=id.g2ca7a695c3a_0_54)
-- [Compose Material3 커스텀 디자인 시스템 구축기 - 권대원](https://speakerdeck.com/kwondae/droidknights-2024-compose-material3-keoseuteom-dijain-siseutem-gucuggi)
-- [TextField 씹고 뜯고 맛보고 즐기고 - 이현우](https://speakerdeck.com/l2hyunwoo/textfield-ssibgo-ddeudgo-masbogo-jeulgigo)
+- [Compose 성능 최적화를 위한 Stability 마스터하기](https://speakerdeck.com/skydoves/kr-2024-droidknights-mastering-stability-to-optimize-compose-performance) - 엄재웅
+- [앱 성능 영혼까지 끌어올리기](https://speakerdeck.com/veronikapj/aeb-seongneung-yeonghonggaji-ggeuleoolrigi) - 배필주
+- [Compose UI 컴포넌트 설계와 테스트](https://speakerdeck.com/wisemuji/droidknights-2024-compose-ui-keomponeonteu-seolgyewa-teseuteu) - 김수현
+- [Accessibility in Android](https://speakerdeck.com/nanamare/droid-knights-2024-accessibility-in-android-ed460750-9a06-4e7e-b156-5decf7596817) - 신현성
+- [시니어와 주니어의 협업 다리 온라인 및 오프라인 Pair Coding의 통찰](https://bit.ly/3yX3Rbv) - 정동진, 최재웅
+- [여러분의 앱 빌드는 안녕하십니까](https://docs.google.com/presentation/d/1_aIuyBlTZyYQPxUH3PiZg91Rs-ImbDXjiir9j0R5e2Q/mobilepresent?slide=id.g2ca7a695c3a_0_54) - 차영호
+- [Compose Material3 커스텀 디자인 시스템 구축기](https://speakerdeck.com/kwondae/droidknights-2024-compose-material3-keoseuteom-dijain-siseutem-gucuggi) - 권대원
+- [TextField 씹고 뜯고 맛보고 즐기고](https://speakerdeck.com/l2hyunwoo/textfield-ssibgo-ddeudgo-masbogo-jeulgigo) - 이현우
 
 #### super.init(version=5)
-- [CDG로 모두와 함께 성장하기 - 이현우](https://speakerdeck.com/l2hyunwoo/cdgro-moduwa-hamgge-seongjanghagi)
-- [백그라운드 반복 작업 예약, 당신의 선택은? AlarmManager vs WorkManager - 임선미](https://speakerdeck.com/nnal0256/super-init-baeggeuraundeu-banbog-jageob-yeyag-dangsinyi-seontaegeun)
-- [어어.. 그렇게 쓰는 거 아닌데.. 주니어 개발자의 Custom Lint 개발일지 - 이지훈](https://speakerdeck.com/leejihoon/eoeo-dot-geureohge-sseuneun-geo-aninde-dot-junieo-gaebaljayi-custom-lint-gaebalilji-super-init5)
-- [Compose Multiplatform, 우리 시작해도 괜찮을까요? - 김원석](https://speakerdeck.com/onseok/compose-multiplatform-uri-sijaghaedo-gwaencanheulggayo)
-- [사이드_프로젝트였는데_2023_올해의_앱에_선정되었다고? - 박병윤](https://speakerdeck.com/bombakbang/saideu-peurojegteuyeossneunde-2023-olhaeyi-aebe-seonjeongdoeeossdago)
+- [CDG로 모두와 함께 성장하기](https://speakerdeck.com/l2hyunwoo/cdgro-moduwa-hamgge-seongjanghagi) - 이현우
+- [백그라운드 반복 작업 예약, 당신의 선택은? AlarmManager vs WorkManager](https://speakerdeck.com/nnal0256/super-init-baeggeuraundeu-banbog-jageob-yeyag-dangsinyi-seontaegeun) - 임선미
+- [어어.. 그렇게 쓰는 거 아닌데.. 주니어 개발자의 Custom Lint 개발일지](https://speakerdeck.com/leejihoon/eoeo-dot-geureohge-sseuneun-geo-aninde-dot-junieo-gaebaljayi-custom-lint-gaebalilji-super-init5) - 이지훈
+- [Compose Multiplatform, 우리 시작해도 괜찮을까요?](https://speakerdeck.com/onseok/compose-multiplatform-uri-sijaghaedo-gwaencanheulggayo) - 김원석
+- [사이드_프로젝트였는데_2023_올해의_앱에_선정되었다고?](https://speakerdeck.com/bombakbang/saideu-peurojegteuyeossneunde-2023-olhaeyi-aebe-seonjeongdoeeossdago) - 박병윤
 
 
 ## 2023
