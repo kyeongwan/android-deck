@@ -27,6 +27,27 @@
 
 
 ## 2023
+#### Devfest Songdo 2023
+- [우리모두 삽질한다](https://speakerdeck.com/pluu/urimodu-sabjilhanda) - Pluu
+- [UI Test with Compose](https://docs.google.com/presentation/d/1y78cGEfqPuKCD052u5VyThWC7G6esvgZUJYw4nmrkQA/edit#slide=id.g2639e353562_2_71) - 권혁준
+- [Android Modularization Recipe](https://speakerdeck.com/fornewid/android-modularization-recipe) - 안성용
+- [Compose Animation](https://speakerdeck.com/kyeongwan/compose-animation) - 강경완
+
+#### 대한민국 인공지능위크 2023 (I/O Extended Android 2023)
+- [Jetpack Compose 상태 및 사이드 효과](https://speakerdeck.com/taehwandev/jetpack-compose-sangtae-mic-saideu-hyogwa) - 권태환
+- [대화면 기기와 폴더블을 위한 앱 개발](https://www.slideshare.net/slideshow/2023-259307176/259307176) - 강경완
+- [파이어베이스로 서비스 품질 올리기](https://speakerdeck.com/veronikapj/paieobeiseuro-seobiseu-pumjil-olrigi) - 배필주
+- [What's New in Kotlin for Android](https://speakerdeck.com/skydoves/o-extended-2023-whats-new-in-kotlin-for-android) - 엄재웅
+- [Debugging Jetpack Compose](https://speakerdeck.com/workspace93/debugging-jetpack-compose) - 류기민
+
+#### I/O Extended Songdo 2023
+- [Relay 및 Compose를 사용하여 완전한 앱 빌드하기](https://docs.google.com/presentation/d/1DCLyj1ATnowLN59QRFEdyZid_lUKQQW07GlFTk_lTQ8/edit?resourcekey=0-UeURVC4K6_z-vlYfYbiddA) - 권혁준
+- [Compose 변경점과 현재의 아키텍쳐를 점검하고 작게 도입해보기](https://docs.google.com/presentation/d/1C7N2KsJKA5KKrdeXlxxwY0YgeB0Q2RRkyx6t4v7YYOQ/edit#slide=id.g275a2d7037a_0_424) - Jongchan Kim
+- [안드로이드 UI 상태저장 권장사항](https://speakerdeck.com/pangmoo/andeuroideu-ui-sangtae-jeojang-gweonjangsahang) - GwangMoo You
+- [데이터 계층 구축하기](https://docs.google.com/presentation/d/1xTf3nzw_aNbbZ9n_c-TFo7hXviCZDpRQIrAE9GveUJk/edit?resourcekey=0-3dAwg_twJxrapdcmXvG3Rw#slide=id.g267e991feac_0_0) - 이준범
+- [Compose 디버깅](https://docs.google.com/presentation/d/1M8tMcezblF1wCTXhst5ICzTPZN0TOfns0q63cuSwmbo/edit?usp=drivesdk) - 김수현
+- [안드로이드의 변화](https://speakerdeck.com/taehwandev/andeuroideuyi-byeonhwa-io-extended-2013-songdo) - 권태환
+
 #### DroidNight 2023
 - [Gradle Version Catalogs](https://docs.google.com/presentation/d/1dicnmRW3dWyA4Yl7V3fFp1tp6bc1ULn1zrBvfRfilxA/mobilepresent?resourcekey=0-RZsGR81zJUIBkEQRgK3GXA&slide=id.g1f133acde25_5_4) - 차영호
 - [Compose 첫 걸음 || Compose Migration](https://speakerdeck.com/juhyung/compose-ceos-geoleum-compose-migration) - Juhyung Park
