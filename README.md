@@ -27,6 +27,22 @@
 
 
 ## 2023
+#### DroidNight 2023
+- [Gradle Version Catalogs](https://docs.google.com/presentation/d/1dicnmRW3dWyA4Yl7V3fFp1tp6bc1ULn1zrBvfRfilxA/mobilepresent?resourcekey=0-RZsGR81zJUIBkEQRgK3GXA&slide=id.g1f133acde25_5_4) - 차영호
+- [Compose 첫 걸음 || Compose Migration](https://speakerdeck.com/juhyung/compose-ceos-geoleum-compose-migration) - Juhyung Park
+- [20년된 Naver Cafe 서비스가 Modularization으로 진화 하기](https://www.slideshare.net/slideshow/20-naver-cafe-modularization-pdf/261758167) - 정동진
+- [Coroutine Deep Dive Android 실전편](https://docs.google.com/presentation/d/e/2PACX-1vTwJbaO2D70XdQ65n_V6-Kwk_Hg7PTgPzSD83w4yjwYpC5TmvH5thyknv-IHGv2bryP3m4VN3IZbUOG/pub?slide=id.g1f133acde25_5_4) - 김준비
+- [Dagger Hilt로 의존성 주입부터 멀티모듈화까지](https://speakerdeck.com/fornewid/dagger-hiltro-yijonseong-juibbuteo-meoltimodyulhwaggaji) - Sungyong An
+- [테스트 잘하는 주니어 개발자 되기](https://docs.google.com/presentation/d/1BlDQGAecqBrgiBVB1XqOoOKEDt2C9jrWSjoXc_nbbNE/mobilepresent?slide=id.g1f133acde25_5_4) - 정정환
+- [Gradle Kotlin 컨벤션 플러그인으로 효율적으로 멀티 모듈 관리하기](https://www.slideshare.net/slideshow/gradle-kotlin/261178195) - 윤영직
+- [Re:Android Studio 설정 살펴보기 및 생산성 올리기](https://speakerdeck.com/pluu/re-android-studio-seoljeong-salpyeobogi-mic-saengsanseong-olrigi) - Pluu
+- [Jetpack Media3로 좋은 콘텐츠 소비 경험 구현하기](https://speakerdeck.com/workspace93/jetpack-media3ro-joheun-kontenceu-sobi-gyeongheom-guhyeonhagi) - 류기민
+- [Compose Multiplatform 101](https://speakerdeck.com/dalinaum/compose-multiplatform-101) - Dalinaum
+- [Android MVVM 패턴의 접근법](https://speakerdeck.com/taehwandev/android-mvvm-paeteonyi-jeobgeunbeob-2023-deuroideu-naiceu) - 권태환
+- [Compose로 위젯을 만든다고?! Glance를 이용한 차량 위젯 개발기](https://speakerdeck.com/taehuniy/droidknights-2023-jeongtaehun-composero-wijeseul-mandeundago-glancereul-iyonghan-caryang-wijes-gaebalgi) - 정태훈
+- [Designing for foldables](https://docs.google.com/presentation/d/177zzvDk8WVGBSi6ptWdZgTf9wSB48xbT-7sAWJBJXEs/mobilepresent?slide=id.g1813e8fe6e8_0_65) - Entique López Mañas
+- [기존 앱을 Jetpack Compose로 마이그레이션 하기](https://speakerdeck.com/dsa28s/droidknights-2023-isanghun-gijon-aebeul-jetpack-composero-maigeureisyeon-hagi) - Sanghun Lee
+
 
 #### super.init(version=4)
 - [API 통신, Retrofit 대신 Ktor 어떠신가요?](https://speakerdeck.com/pangmoo/api-tongsin-retrofit-daesin-ktor-eoddeosingayo) - 유광무
