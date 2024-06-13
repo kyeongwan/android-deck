@@ -27,3 +27,9 @@
 
 
 ## 2023
+
+#### super.init(version=4)
+- [API 통신, Retrofit 대신 Ktor 어떠신가요?](https://speakerdeck.com/pangmoo/api-tongsin-retrofit-daesin-ktor-eoddeosingayo) - 유광무
+- [선언형 UI가 대세임을 "선언" 합니다. (Compose 학습부터 적용까지의 일대기)](https://speakerdeck.com/l2hyunwoo/seoneonhyeong-uiga-daeseimeul-seoneonhabnida) - 이현우
+- [지라 자동화 어디까지 가능할까요?](https://speakerdeck.com/hanalee/jira-jadonghwa-eodiggaji-ganeunghalggayo) - 이하나
+- [인생게임 - ver. 모바일개발자](https://speakerdeck.com/gaegul2moja/insaeng-geim-ver-dot-android-developer) - 손예진
