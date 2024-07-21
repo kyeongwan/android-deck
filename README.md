@@ -8,6 +8,18 @@
 - repository에 파일 형식으로 업로드하지 않습니다.
 
 ## 2024
+#### I/O Extended 2024 Incheon
+
+
+#### I/O Extended Android in Korea 2024
+- [What`s new in Android 2024](https://speakerdeck.com/kyeongwan/o-extended-android-2024-whats-new-in-android-2024) - 강경완
+- [Whats new in Android development tools](https://speakerdeck.com/pluu/o-extended-android-in-korea-2024-whats-new-in-android-development-tools) - Pluu
+- [유연한 Composable 설계](https://speakerdeck.com/l2hyunwoo/yuyeonhan-composable-seolgye) - 이현우
+- [벤치마크 사용설명서](https://speakerdeck.com/veronikapj/how-to-use-macrobenchmark) - 배필주
+- [Github Actions 로 Android 팀의 효율성 극대화](https://speakerdeck.com/hadonghyun/github-actions-ro-android-timyi-hyoyulseong-geugdaehwa) - 하동현
+- [Jetpack for KMP](https://speakerdeck.com/fornewid/jetpack-for-kmp) - 안성용
+
+
 #### DroidNight 2024
 - [Compose 성능 최적화를 위한 Stability 마스터하기](https://speakerdeck.com/skydoves/kr-2024-droidknights-mastering-stability-to-optimize-compose-performance) - 엄재웅
 - [앱 성능 영혼까지 끌어올리기](https://speakerdeck.com/veronikapj/aeb-seongneung-yeonghonggaji-ggeuleoolrigi) - 배필주
