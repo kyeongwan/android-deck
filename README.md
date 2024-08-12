@@ -9,6 +9,11 @@
 
 ## 2024
 #### I/O Extended 2024 Incheon
+- [Compose 함수를 나누는 조건은?](https://speakerdeck.com/taehwandev/compose-hamsu-nanuneun-jogeoneun) - 권태환
+- [Compose 성능 끌어올리기](https://speakerdeck.com/kyeongwan/compose-seongneung-ggeuleoolrigi) - 강경완
+- [Material Motion for Compose](https://speakerdeck.com/fornewid/material-motion-for-compose) - 안성용
+- [Jetpack Glance를 사용한 위젯 생성](https://drive.google.com/file/d/12odQBY93mrVSDpPWp0BS1cxD5eK_4CJW/view) - 권혁준
+- [Gemini in Android Studio](https://speakerdeck.com/veronikapj/o-extended-2024) - 배필주
 
 
 #### I/O Extended Android in Korea 2024
