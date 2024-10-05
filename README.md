@@ -8,6 +8,14 @@
 - repository에 파일 형식으로 업로드하지 않습니다.
 
 ## 2024
+
+#### Devfest Android in Korea 2024
+- [게임 개발하던 학생이 이 세계에선 안드로이드 개발자?](https://speakerdeck.com/pangmoo/game-dev-to-android-dev) - 유광무
+- [DevFest Android in Korea 2024 - 안드로이드의 문단속 : 앱을 지키는 암호화 이야기](https://speakerdeck.com/mdb1217/devfest-android-in-korea-2024-andeuroideuyi-mundansog-aebeul-jikineun-amhohwa-iyagi) - 문다빈
+- [선언형 UI를 학습할 때 알아둬야하는 키워드들](https://speakerdeck.com/l2hyunwoo/seoneonhyeong-uireul-hagseubhal-ddae-aladweoyahaneun-kiweodeudeul) - 이현우
+- [Server Driven Compose With Firebase](https://speakerdeck.com/skydoves/server-driven-compose-with-firebase) - 엄재웅
+- [Compose Multiplatform과 Ktor로 플랫폼의 경계를 넘어보자](https://speakerdeck.com/kwakeuijin/compose-multiplatformgwa-ktorro-peulraespomyi-gyeonggyereul-neomeoboja) - 곽의진
+
 #### I/O Extended 2024 Incheon
 - [Compose 함수를 나누는 조건은?](https://speakerdeck.com/taehwandev/compose-hamsu-nanuneun-jogeoneun) - 권태환
 - [Compose 성능 끌어올리기](https://speakerdeck.com/kyeongwan/compose-seongneung-ggeuleoolrigi) - 강경완
