@@ -7,6 +7,16 @@
 - 공유가 허락된 링크만 첨부합니다.
 - repository에 파일 형식으로 업로드하지 않습니다.
 
+## 2025
+
+#### super.init(version=6)
+- [사이드 프로젝트를 20번 실패한 주니어의 오답노트 훔쳐보기](https://speakerdeck.com/yjyoon/saideu-peurojegteureul-20beon-silpaehan-junieoyi-odabnoteu-feat-kmp) - 윤여준
+- [10년 개발한 프로젝트. 애자일 업무 조직에서 모듈화 했던 경험을 공유합니다.](https://speakerdeck.com/winterlovedev/android-modularization-experience) - 김성훈
+- [From Where to Wear : 모바일 개발자가 워치에서 발견한 인사이트](https://speakerdeck.com/haeti2/gdg-super-dot-init-version-equals-6-from-where-to-wear-mobail-gaebaljaga-weocieseo-balgyeonhan-insaiteu) - 이태희
+- [수학으로 UI 요구사항 만족시키기](https://speakerdeck.com/moony/requirements-with-math) - 한문휘
+- [신입 안드로이드 개발자의 AI 스타트업 생존기 (+ Native C++ Code를 Android에서 사용해보기)](https://speakerdeck.com/dygames/sinib-andeuroideu-gaebaljayi-ai-seutateueob-saengjongi-plus-native-c-plus-plus-codereul-androideseo-sayonghaebogi) - 김도엽
+- [‘무차별 LGTM~👍’만 외치던 우리가 ‘고봉밥 코드 리뷰’를?](https://speakerdeck.com/hannah0731/mucabyeol-lgtm-man-oecideon-uriga-gobongbab-kodeu-ribyureul) - 해나
+
 ## 2024
 
 #### Devfest Android in Korea 2024
