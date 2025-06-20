@@ -9,6 +9,20 @@
 
 ## 2025
 
+### DroidNight 2025
+- [카카오뱅크 Compose 적용기](https://drive.google.com/file/d/1VQvmgwO_VeW_qaEx2GXrYvh7rUOpO9_z/view) - 이수호
+- [KMP로 Figma 아이콘 동기화, 클릭 한 번이면 끝!](https://drive.google.com/file/d/1Yxeo84I8c3G8Mjti-0qLajKXr1v4I03D/view?usp=drive_link) - 옥수환
+- [전방위 자동화 시대, CI/CD를 넘어 PM과 QA까지 확장하기](https://1drv.ms/p/c/e472931d0e54b797/EaPolj5pC8RMkIl0KLdxxHIBMVdR_KoTBwbPPb6bIXvSFA?e=VCKlC3) - 김호중
+- [당신의 클린아키텍처는 틀렸다](https://drive.google.com/file/d/1URnwYdtR515vPawZGkbKRhD6KBX-oXQg/view?usp=sharing) - 박상권
+- [다양한 스크롤 뷰에서의 영상 재생](https://speakerdeck.com/gaeun5744/droidknights-2025-dayanghan-seukeurol-byueseoyi-yeongsang-jaesaeng) - 이가은
+- [레드팀 화이트해커의 Offensive 관점 안드로이드 앱 보안 (feat. CVE-2025-****)](https://drive.google.com/file/d/1uunlTJ7GCWAgvez_lrybuwaP8GTf9sIu/view?usp=drive_link) - 김주원
+- [ReadMoreTextView: 텍스트 ‘더보기’ 기능 구현하기](https://speakerdeck.com/fornewid/readmoretextview) - 안성용
+- [Benchmark와 BaselineProfile을 사용해 LazyColumn 스크롤 성능을 75% 개선하기까지의 여정](https://speakerdeck.com/sysong/benchmark) - 송상윤
+- [Jetpack XR 살펴보기 : XR 개발은 어떻게 이루어지는가?](https://speakerdeck.com/heesung6701/droidknights-2025-jetpack-xr-salpyeobogi-xr-gaebaleun-eoddeohge-irueojineunga) - 윤희성
+- [컴포즈 스냅샷 내부원리 찍어먹기](https://drive.google.com/file/d/1DSTUjf7TMZJGpm6deZm-vHoHo-NzmKKI/view?usp=drive_link) - 강다현
+- [나도 edgeToEdge 적용하기 싫어. 근데 누군가는 해야 하잖아?](https://speakerdeck.com/leejihoon/droidknights-2025-nado-edgetoedge-jeogyonghagi-silheo-geunde-nugunganeun-haeya-hajanha) - 이지훈
+- [Bytecode Manipulation 을 통해 생산성 높이기](https://speakerdeck.com/bigstark/bytecode-manipulation-euro-saengsanseong-nopigi) - 강대규
+
 #### super.init(version=6)
 - [사이드 프로젝트를 20번 실패한 주니어의 오답노트 훔쳐보기](https://speakerdeck.com/yjyoon/saideu-peurojegteureul-20beon-silpaehan-junieoyi-odabnoteu-feat-kmp) - 윤여준
 - [10년 개발한 프로젝트. 애자일 업무 조직에서 모듈화 했던 경험을 공유합니다.](https://speakerdeck.com/winterlovedev/android-modularization-experience) - 김성훈
